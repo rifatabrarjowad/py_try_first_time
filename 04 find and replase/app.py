@@ -1,0 +1,5 @@
+sent = input('Input your sentence : ')
+find = input('find word : ')
+repl = input('replace word : ')
+output = sent.replace(f'{find}',f'{repl}')
+print(output)
