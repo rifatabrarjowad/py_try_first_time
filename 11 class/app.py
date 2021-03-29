@@ -6,5 +6,6 @@ class Point():
         print("draw")
 
 
+# print using class mathod
 point1 = Point()
 point1.move()
