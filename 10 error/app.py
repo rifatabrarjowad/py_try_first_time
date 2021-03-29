@@ -12,5 +12,6 @@ try:
     print(f"you are {age}")
 except ZeroDivisionError:
     print("Age can't be 0")
+    #value error
 except ValueError:
     print('Invalid value')
