@@ -4,5 +4,5 @@ import random
 #     print(random.randint(10, 20))
 member = ['Abrar', 'Rifat', 'Jowad']
 
-led = random.choice[member]
+led = random.choice(member)
 print(led)
